@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(./node_modules/.bin/tailwindcss init:*)",
+      "Bash(npm list:*)",
+      "Bash(npm init:*)",
+      "Bash(npm run:*)",
+      "Bash(node seed.js)",
+      "Bash(mongod --version)",
+      "Read(//c/Program Files/MongoDB/**)",
+      "Read(//c/Program Files/**)",
+      "Read(//tmp/**)",
+      "Bash(gh auth:*)",
+      "Bash(git --version)",
+      "Bash(git -C \"C:\\\\Users\\\\Youssef\\\\Desktop\\\\stage pfe soufianz\" status)"
+    ]
+  }
+}
